@@ -22,6 +22,26 @@
       }
     },
     {
+      "id": "blenderkit-00df8b3b-8ab3-4bd9-aa0b-53e01f072f39",
+      "name": "Wolf Emblem Brush - 01",
+      "category": "ornaments",
+      "textureURL": "https://jacky397934348.github.io/digital-sculptor-support/vdm/textures/blenderkit-00df8b3b-8ab3-4bd9-aa0b-53e01f072f39.png",
+      "thumbnailURL": "https://jacky397934348.github.io/digital-sculptor-support/vdm/thumbnails/blenderkit-00df8b3b-8ab3-4bd9-aa0b-53e01f072f39.png",
+      "sha256": "8c98d592e17de65c653e98bbc0a7bdf3d692b90852e08676137e3e20938ce2e4",
+      "sourceName": "BlenderKit / Adam McAnderson",
+      "sourceURL": "https://www.blenderkit.com/asset-gallery-detail/00df8b3b-8ab3-4bd9-aa0b-53e01f072f39/",
+      "license": "CC0 1.0",
+      "metadata": {
+        "vectorSpace": "tangent",
+        "midlevel": 0.5019607843137255,
+        "scale": 0.3259285092353821,
+        "flipX": false,
+        "flipY": false,
+        "flipZ": false,
+        "useAlpha": false
+      }
+    },
+    {
       "id": "blenderkit-03013cfe-8e8d-42ac-affd-b21adcc71184",
       "name": "Dragon Fin VDM Brush - 01",
       "category": "organic",
@@ -184,7 +204,7 @@
     {
       "id": "blenderkit-20b8a915-5564-4be4-9b16-954d2dad2f09",
       "name": "VDM Rocks - 01",
-      "category": "hardSurface",
+      "category": "rocks",
       "textureURL": "https://jacky397934348.github.io/digital-sculptor-support/vdm/textures/blenderkit-20b8a915-5564-4be4-9b16-954d2dad2f09.png",
       "thumbnailURL": "https://jacky397934348.github.io/digital-sculptor-support/vdm/thumbnails/blenderkit-20b8a915-5564-4be4-9b16-954d2dad2f09.png",
       "sha256": "ddee8a5a79893f15226ec161cef28932e534cc8f3e327176e6f76ee081814c9d",
@@ -242,19 +262,19 @@
       }
     },
     {
-      "id": "blenderkit-2c8b0942-919f-4fdf-8e64-5ae6ec02dd61",
-      "name": "Human nose",
-      "category": "basic",
-      "textureURL": "https://jacky397934348.github.io/digital-sculptor-support/vdm/textures/blenderkit-2c8b0942-919f-4fdf-8e64-5ae6ec02dd61.png",
-      "thumbnailURL": "https://jacky397934348.github.io/digital-sculptor-support/vdm/thumbnails/blenderkit-2c8b0942-919f-4fdf-8e64-5ae6ec02dd61.png",
-      "sha256": "2b8995ea5fff70225910c69f200eae12b391769d2e9714798d6001201e8bd63d",
-      "sourceName": "BlenderKit / Ond\u0159ej Smetana",
-      "sourceURL": "https://www.blenderkit.com/asset-gallery-detail/2c8b0942-919f-4fdf-8e64-5ae6ec02dd61/",
+      "id": "blenderkit-2ae1ee03-cde0-4f41-a5ed-ba9a6d7f714b",
+      "name": "Pores in Circle Spray",
+      "category": "creases",
+      "textureURL": "https://jacky397934348.github.io/digital-sculptor-support/vdm/textures/blenderkit-2ae1ee03-cde0-4f41-a5ed-ba9a6d7f714b.png",
+      "thumbnailURL": "https://jacky397934348.github.io/digital-sculptor-support/vdm/thumbnails/blenderkit-2ae1ee03-cde0-4f41-a5ed-ba9a6d7f714b.png",
+      "sha256": "c941e707a4cbd711b0c98f31251c72b8cb14889a2097c2405a150c4d157222f9",
+      "sourceName": "BlenderKit / Muhammed Ismayil",
+      "sourceURL": "https://www.blenderkit.com/asset-gallery-detail/2ae1ee03-cde0-4f41-a5ed-ba9a6d7f714b/",
       "license": "CC0 1.0",
       "metadata": {
         "vectorSpace": "tangent",
         "midlevel": 0.5019607843137255,
-        "scale": 0.403076171875,
+        "scale": 0.11242623627185822,
         "flipX": false,
         "flipY": false,
         "flipZ": false,
@@ -422,26 +442,6 @@
       }
     },
     {
-      "id": "blenderkit-59e4e786-2ecc-4a70-9cc2-de4ccd536e77",
-      "name": "Male Human Nose - 01",
-      "category": "basic",
-      "textureURL": "https://jacky397934348.github.io/digital-sculptor-support/vdm/textures/blenderkit-59e4e786-2ecc-4a70-9cc2-de4ccd536e77.png",
-      "thumbnailURL": "https://jacky397934348.github.io/digital-sculptor-support/vdm/thumbnails/blenderkit-59e4e786-2ecc-4a70-9cc2-de4ccd536e77.png",
-      "sha256": "fced39a3e8719202d25d4596f97711d6bc1fbed73cd87e42c55f89c3f03e4f18",
-      "sourceName": "BlenderKit / Adam McAnderson",
-      "sourceURL": "https://www.blenderkit.com/asset-gallery-detail/59e4e786-2ecc-4a70-9cc2-de4ccd536e77/",
-      "license": "CC0 1.0",
-      "metadata": {
-        "vectorSpace": "tangent",
-        "midlevel": 0.5019607843137255,
-        "scale": 0.3646169602870941,
-        "flipX": false,
-        "flipY": false,
-        "flipZ": false,
-        "useAlpha": false
-      }
-    },
-    {
       "id": "blenderkit-5ced366e-ca0c-45d4-b47b-0a4212c22ad9",
       "name": "Female Ears Anime",
       "category": "basic",
@@ -602,19 +602,19 @@
       }
     },
     {
-      "id": "blenderkit-95a1f0cc-08a7-4061-b3f1-f492c3eb62cc",
-      "name": "Generic Male Nose Realistic",
-      "category": "basic",
-      "textureURL": "https://jacky397934348.github.io/digital-sculptor-support/vdm/textures/blenderkit-95a1f0cc-08a7-4061-b3f1-f492c3eb62cc.png",
-      "thumbnailURL": "https://jacky397934348.github.io/digital-sculptor-support/vdm/thumbnails/blenderkit-95a1f0cc-08a7-4061-b3f1-f492c3eb62cc.png",
-      "sha256": "6ed1bd98eb9ebbb7ac487bd887e2a84faff4901299a2e935acef97a5db03b2c4",
+      "id": "blenderkit-94989a6c-a9a2-475b-9d47-d209dbaa8fc6",
+      "name": "Pores Circle-Large Anchored",
+      "category": "creases",
+      "textureURL": "https://jacky397934348.github.io/digital-sculptor-support/vdm/textures/blenderkit-94989a6c-a9a2-475b-9d47-d209dbaa8fc6.png",
+      "thumbnailURL": "https://jacky397934348.github.io/digital-sculptor-support/vdm/thumbnails/blenderkit-94989a6c-a9a2-475b-9d47-d209dbaa8fc6.png",
+      "sha256": "264ecb53ae6dc9ff30454e78e9e1f681de9f3630883ed2d8ed496973e5d1ae4c",
       "sourceName": "BlenderKit / Muhammed Ismayil",
-      "sourceURL": "https://www.blenderkit.com/asset-gallery-detail/95a1f0cc-08a7-4061-b3f1-f492c3eb62cc/",
+      "sourceURL": "https://www.blenderkit.com/asset-gallery-detail/94989a6c-a9a2-475b-9d47-d209dbaa8fc6/",
       "license": "CC0 1.0",
       "metadata": {
         "vectorSpace": "tangent",
         "midlevel": 0.5019607843137255,
-        "scale": 0.46667900681495667,
+        "scale": 0.02528351917862892,
         "flipX": false,
         "flipY": false,
         "flipZ": false,
@@ -822,6 +822,26 @@
       }
     },
     {
+      "id": "blenderkit-cf2993f1-f482-4bde-a2ef-2d3fd40af35e",
+      "name": "Hanya Style Mask - 01",
+      "category": "ornaments",
+      "textureURL": "https://jacky397934348.github.io/digital-sculptor-support/vdm/textures/blenderkit-cf2993f1-f482-4bde-a2ef-2d3fd40af35e.png",
+      "thumbnailURL": "https://jacky397934348.github.io/digital-sculptor-support/vdm/thumbnails/blenderkit-cf2993f1-f482-4bde-a2ef-2d3fd40af35e.png",
+      "sha256": "4bd496af301a9b53d2476f0c0e36038e76a3569944e68cdfa95d8b51f03b45cc",
+      "sourceName": "BlenderKit / Adam McAnderson",
+      "sourceURL": "https://www.blenderkit.com/asset-gallery-detail/cf2993f1-f482-4bde-a2ef-2d3fd40af35e/",
+      "license": "CC0 1.0",
+      "metadata": {
+        "vectorSpace": "tangent",
+        "midlevel": 0.5019607843137255,
+        "scale": 0.710241973400116,
+        "flipX": false,
+        "flipY": false,
+        "flipZ": false,
+        "useAlpha": false
+      }
+    },
+    {
       "id": "blenderkit-d9b36654-6a28-4fbd-9086-6ac090321e72",
       "name": "Female Eyes Stylised",
       "category": "basic",
@@ -844,7 +864,7 @@
     {
       "id": "blenderkit-dcf832d6-8e81-46c6-86b1-2848ab001683",
       "name": "VDM Rocks - 02",
-      "category": "hardSurface",
+      "category": "rocks",
       "textureURL": "https://jacky397934348.github.io/digital-sculptor-support/vdm/textures/blenderkit-dcf832d6-8e81-46c6-86b1-2848ab001683.png",
       "thumbnailURL": "https://jacky397934348.github.io/digital-sculptor-support/vdm/thumbnails/blenderkit-dcf832d6-8e81-46c6-86b1-2848ab001683.png",
       "sha256": "b015b6dc4de40dae23b46bde98aff8ed7775b09f3ba6d87cd687c7c6d9e38c07",
@@ -855,26 +875,6 @@
         "vectorSpace": "tangent",
         "midlevel": 0.5019607843137255,
         "scale": 0.13623046875,
-        "flipX": false,
-        "flipY": false,
-        "flipZ": false,
-        "useAlpha": false
-      }
-    },
-    {
-      "id": "blenderkit-dd9d0d75-d413-478c-a3c5-b18c59a67581",
-      "name": "Generic Male Nose Realistic",
-      "category": "basic",
-      "textureURL": "https://jacky397934348.github.io/digital-sculptor-support/vdm/textures/blenderkit-dd9d0d75-d413-478c-a3c5-b18c59a67581.png",
-      "thumbnailURL": "https://jacky397934348.github.io/digital-sculptor-support/vdm/thumbnails/blenderkit-dd9d0d75-d413-478c-a3c5-b18c59a67581.png",
-      "sha256": "cdaff6e99b6f753e8e81eb84830c3358c00c252e7f73ddc78fd3a0f05d4e293c",
-      "sourceName": "BlenderKit / Muhammed Ismayil",
-      "sourceURL": "https://www.blenderkit.com/asset-gallery-detail/dd9d0d75-d413-478c-a3c5-b18c59a67581/",
-      "license": "CC0 1.0",
-      "metadata": {
-        "vectorSpace": "tangent",
-        "midlevel": 0.5019607843137255,
-        "scale": 0.6926203370094299,
         "flipX": false,
         "flipY": false,
         "flipZ": false,
